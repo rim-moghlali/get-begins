@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hello world
+=======
+git clone 
+git add
+git commit
+git push
+>>>>>>> parent of b1d3cf7 (Update commands-git)
